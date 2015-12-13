@@ -10,6 +10,10 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
+      <file name="/a.dummy" timestamp="1450005987111">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450005934103" />
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
