@@ -10,24 +10,23 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450023143780">
-        <mark key="'" line="34" column="15" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="16" />
-        <mark key="^" line="43" column="16" />
-        <mark key="." line="43" column="16" />
+      <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450024671130">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450005934103" />
       <file name="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.html" timestamp="1450012411032">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="83" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450023560716">
-        <mark key="'" line="39" column="37" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450025379397">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="59" column="5" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450018832893">
         <mark key="[" line="13" column="0" />
@@ -91,55 +90,57 @@
       <jump line="1" column="61" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="34" column="15" filename="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" />
       <jump line="44" column="37" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="70" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="58" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBlbXB0eXBsb3QgPSB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>Plotter</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>emptyplot</text>
       </register>
       <register name="0" type="4">
         <text>@points.selectAll(&quot;rect&quot;)[0]?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBlbXB0eXBsb3QgPSB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2xlZXAgPSAobXMpIC0+CiAgc3RhcnQgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKQogIGNvbnRpbnVlIHdoaWxlIG5ldyBEYXRlKCkuZ2V0VGltZSgpIC0gc3RhcnQgPCBtcwo=</text>
+        <text encoding="base64">ICAgICAgQGVtcHR5cGxvdCA9IGZhbHNlCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImluc3RhbnRpYXRlIHBsb3QiKQo=</text>
+      <register name="3" type="4">
+        <text>Plotter</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEBwb2ludHMuc2VsZWN0QWxsKCJyZWN0IilbMF0ubGVuZ3RoKQo=</text>
+      <register name="4" type="4">
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PA==</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>?</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text encoding="base64">ICM=</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text encoding="base64">IChpbmZsdWVuY2UgbWFwKS4=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>emptyplot</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
+      <last-pattern>emptyplot</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -159,6 +160,7 @@
         <entry>console</entry>
         <entry>data</entry>
         <entry>this</entry>
+        <entry>emptyplot</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
@@ -167,6 +169,7 @@
         <entry>Lw</entry>
         <entry>.,.+19w</entry>
         <entry>W</entry>
+        <entry>.,.+1w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

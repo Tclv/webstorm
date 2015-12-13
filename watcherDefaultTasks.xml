@@ -1,10 +1,10 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--map --compile $FileName$" />
+      <option name="arguments" value="--output $ProjectFileDir$/js/$FileDirRelativeToProjectRoot$/ --compile --map $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .coffee files into .js files" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="coffee" />
       <option name="immediateSync" value="true" />
       <option name="name" value="CoffeeScript" />
