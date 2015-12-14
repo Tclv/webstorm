@@ -46,12 +46,6 @@
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450102769645" />
       <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450102322923" />
-      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450106687774">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
