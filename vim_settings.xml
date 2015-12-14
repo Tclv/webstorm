@@ -3,25 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" timestamp="1449758306672">
-        <mark key="'" line="57" column="23" />
-        <mark key="[" line="78" column="56" />
-        <mark key="]" line="78" column="56" />
-        <mark key="." line="78" column="56" />
-        <mark key="^" line="78" column="56" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450123022624">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450092429859">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-      </file>
       <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450122830076">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
@@ -41,25 +22,34 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450122842111">
-        <mark key="[" line="41" column="68" />
-        <mark key="]" line="41" column="83" />
-        <mark key="." line="41" column="83" />
-        <mark key="^" line="41" column="83" />
+      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450132996442">
+        <mark key="'" line="29" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450102769645" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450102322923" />
+      <file name="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" timestamp="1449758306672">
+        <mark key="'" line="57" column="23" />
+        <mark key="[" line="78" column="56" />
+        <mark key="]" line="78" column="56" />
+        <mark key="." line="78" column="56" />
+        <mark key="^" line="78" column="56" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450123022624">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450092429859">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450124402850">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450102769645" />
-      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450102322923" />
-      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450128771663">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="12" column="62" />
-        <mark key="." line="12" column="62" />
-        <mark key="^" line="12" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -112,55 +102,56 @@
       <jump line="29" column="14" filename="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" />
       <jump line="10" column="0" filename="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" />
+      <jump line="29" column="24" filename="$USER_HOME$/Development/dota-analytics/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>@route</text>
+        <text>control</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9saWIvbWF0Y2hwbGF5ZXIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>2</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>@</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>here</text>
       </register>
       <register name="6" type="4">
-        <text>@</text>
+        <text>p</text>
       </register>
-      <register name="7" type="4">
-        <text>ex</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPkNvbnRyb2xzIGhlcmU8L3A+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>x</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaWQpCg==</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text encoding="base64">aW4g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>@route</last-search>
+      <last-search>control</last-search>
       <last-offset />
-      <last-pattern>@route</last-pattern>
+      <last-pattern>control</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -179,6 +170,7 @@
         <entry>console</entry>
         <entry>file</entry>
         <entry>@route</entry>
+        <entry>control</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
@@ -186,6 +178,7 @@
         <entry>.,.+1w</entry>
         <entry>W</entry>
         <entry>vsplit</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
