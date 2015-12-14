@@ -10,12 +10,14 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450098656094" />
       <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450092429859">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="34" />
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450099296474" />
       <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450097518366">
         <mark key="'" line="1" column="2" />
         <mark key="[" line="0" column="0" />
@@ -23,6 +25,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="42" />
       </file>
+      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450099323160" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450098624728" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450099375467" />
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
@@ -70,52 +75,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBkYXRhID0gW3sieCIgOiAxMDAsICJ5IiA6IDEwMSwgImluZmx1ZW5jZSIgOiAtMC41fSwgeyJ4IiA6IDEwMiwgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAwLjd9XQpkYXRhMiA9IFt7IngiIDogMTAxLCAieSIgOiAxMDEsICJpbmZsdWVuY2UiIDogMS4wfSwgeyJ4IiA6IDEwMywgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAtMC4yfV0KCgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9ydW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>imgHeight</text>
+        <text>matchplayer</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyh3aWR0aCkK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9saWIvbWF0Y2hwbGF5ZXIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBkYXRhID0gW3sieCIgOiAxMDAsICJ5IiA6IDEwMSwgImluZmx1ZW5jZSIgOiAtMC41fSwgeyJ4IiA6IDEwMiwgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAwLjd9XQpkYXRhMiA9IFt7IngiIDogMTAxLCAieSIgOiAxMDEsICJpbmZsdWVuY2UiIDogMS4wfSwgeyJ4IiA6IDEwMywgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAtMC4yfV0KCgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9ydW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhAd2lkdGgpCg==</text>
+      <register name="2" type="4">
+        <text>matchplayer</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygicmVzaXppbmciKQo=</text>
+      <register name="3" type="4">
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>imgHeight</text>
+        <text>lib</text>
       </register>
-      <register name="5" type="4">
-        <text>h</text>
+      <register name="5" type="2">
+        <text encoding="base64">IyBkYXRhID0gW3sieCIgOiAxMDAsICJ5IiA6IDEwMSwgImluZmx1ZW5jZSIgOiAtMC41fSwgeyJ4IiA6IDEwMiwgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAwLjd9XQpkYXRhMiA9IFt7IngiIDogMTAxLCAieSIgOiAxMDEsICJpbmZsdWVuY2UiIDogMS4wfSwgeyJ4IiA6IDEwMywgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAtMC4yfV0KCgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>width</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZyhAd2lkdGgpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>height</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZygicmVzaXppbmciKQo=</text>
       </register>
       <register name="8" type="4">
-        <text>@</text>
+        <text>imgHeight</text>
       </register>
       <register name="9" type="4">
-        <text>@</text>
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -132,6 +137,7 @@
         <entry encoding="base64">XDxwb2ludHNcPg==</entry>
         <entry>@width</entry>
         <entry>console</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
