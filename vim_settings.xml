@@ -10,6 +10,19 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
+      <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450043210422">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="66" />
+        <mark key="^" line="13" column="66" />
+        <mark key="." line="13" column="66" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450091556929">
+        <mark key="'" line="61" column="28" />
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
@@ -24,66 +37,77 @@
       <jump line="60" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
       <jump line="55" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
       <jump line="57" column="23" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
+      <jump line="45" column="13" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="11" column="18" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="75" column="51" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="20" column="43" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="28" column="40" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="52" column="46" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="61" column="28" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>outerWidth</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>outerWidth</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2FsZVhcPg==</text>
+        <text>resize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2YXIgeEF4aXMgPSBkMy5zdmcuYXhpcygpLnNjYWxlKHhTY2FsZSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>outerWidth</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIFVwZGF0aW5nIG9ubHkgd29ya3MgZm9yIGRhdGEgb2YgdGhlIHNhbWUgaW5wdXQgc2l6ZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvaW50cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgeEF4aXNHcm91cCA9IHN2ZwogICAgICAuYXBwZW5kKCJnIikKICAgICAgLmNhbGwoeEF4aXMpOwoKICB2YXIgeUF4aXNHcm91cCA9IHN2ZwogICAgICAuYXBwZW5kKCJnIikKICAgICAgLmNhbGwoeUF4aXMpOwoKCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvaW50cykK</text>
       </register>
       <register name="7" type="4">
-        <text>linear</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>linear</text>
+        <text>unnecesary</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2FsZVhcPg==</last-search>
+      <last-search>resize</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2FsZVhcPg==</last-pattern>
+      <last-pattern>resize</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxzY2FsZVhcPg==</entry>
+        <entry>append</entry>
+        <entry>same size</entry>
+        <entry>resize</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
+        <entry>.,.+1w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
