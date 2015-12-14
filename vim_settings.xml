@@ -10,7 +10,6 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450101588970" />
       <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450092429859">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="34" />
@@ -37,12 +36,6 @@
         <mark key="]" line="14" column="40" />
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450106630650">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="27" column="72" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450102769645" />
       <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450102322923" />
