@@ -19,15 +19,11 @@
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450101749772">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="14" />
-        <mark key="^" line="30" column="14" />
-        <mark key="." line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450103947816">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450106659164">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450101600179">
         <mark key="'" line="1" column="2" />
@@ -42,7 +38,7 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450104975848">
+      <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450106630650">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
@@ -50,7 +46,7 @@
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450102769645" />
       <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450102322923" />
-      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450105000878">
+      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450106687774">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="6" column="44" />
         <mark key="^" line="6" column="44" />
@@ -104,7 +100,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldF9hdmFpbGFibGVfbWF0Y2hlczogLT4KICAgICAgICAkLmFqYXgK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXRoLmVuZHNXaXRoKCJtYXRjaGVzIikKICAgICAgICAgICAgcmVzLmNvbnRlbnQgPSAiaGFsbG8iCg==</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -116,31 +112,31 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9saWIvbWF0Y2hwbGF5ZXIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldF9hdmFpbGFibGVfbWF0Y2hlczogLT4KICAgICAgICAkLmFqYXgK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXRoLmVuZHNXaXRoKCJtYXRjaGVzIikKICAgICAgICAgICAgcmVzLmNvbnRlbnQgPSAiaGFsbG8iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiBNYXRjaC5CCg==</text>
+        <text encoding="base64">ICAgIGdldF9hdmFpbGFibGVfbWF0Y2hlczogLT4KICAgICAgICAkLmFqYXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2xvYiA9IHJlcXVpcmUgImdsb2IiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiBNYXRjaC5CCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2xvYiA9IHJlcXVpcmUgImdsb2IiCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coZ2xvYigiLi9kYXRhLyouanNvbi5neiIpKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>x</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>p</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9ydW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -174,8 +170,8 @@
         <entry>split</entry>
         <entry>vsplit</entry>
         <entry>.,.+1w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
