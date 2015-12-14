@@ -16,12 +16,12 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450094207144">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450097518366">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="8" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -47,62 +47,75 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="25" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="85" column="4" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
-      <jump line="12" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="82" column="59" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
-      <jump line="15" column="21" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="24" column="22" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="26" column="27" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="36" column="23" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="47" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="64" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="60" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="15" column="15" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="33" column="15" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="54" column="22" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="57" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="29" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="78" column="20" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="12" column="33" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="21" column="31" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="76" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="77" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="16" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="4" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="1" column="2" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBkYXRhID0gW3sieCIgOiAxMDAsICJ5IiA6IDEwMSwgImluZmx1ZW5jZSIgOiAtMC41fSwgeyJ4IiA6IDEwMiwgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAwLjd9XQpkYXRhMiA9IFt7IngiIDogMTAxLCAieSIgOiAxMDEsICJpbmZsdWVuY2UiIDogMS4wfSwgeyJ4IiA6IDEwMywgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAtMC4yfV0KCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>imgHeight</text>
       </register>
       <register name="/" type="4">
-        <text>width</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQljb25zb2xlLmxvZyh3aWR0aCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyBkYXRhID0gW3sieCIgOiAxMDAsICJ5IiA6IDEwMSwgImluZmx1ZW5jZSIgOiAtMC41fSwgeyJ4IiA6IDEwMiwgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAwLjd9XQpkYXRhMiA9IFt7IngiIDogMTAxLCAieSIgOiAxMDEsICJpbmZsdWVuY2UiIDogMS4wfSwgeyJ4IiA6IDEwMywgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAtMC4yfV0KCgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>(</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZyhAd2lkdGgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>round</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQljb25zb2xlLmxvZygicmVzaXppbmciKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>imgHeight</text>
       </register>
       <register name="5" type="4">
-        <text>Math</text>
+        <text>h</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>width</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>height</text>
       </register>
       <register name="8" type="4">
-        <text>round</text>
+        <text>@</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>@</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>width</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>width</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -116,6 +129,9 @@
         <entry>margine</entry>
         <entry>margin</entry>
         <entry>width</entry>
+        <entry encoding="base64">XDxwb2ludHNcPg==</entry>
+        <entry>@width</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
