@@ -10,14 +10,24 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450123022624">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+      </file>
       <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450092429859">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="34" />
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450101749772">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450122830076">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450106659164">
         <mark key="[" line="24" column="0" />
@@ -31,14 +41,26 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450100540233">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="40" />
+      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450122842111">
+        <mark key="[" line="41" column="68" />
+        <mark key="]" line="41" column="83" />
+        <mark key="." line="41" column="83" />
+        <mark key="^" line="41" column="83" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450124402850">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450102769645" />
       <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450102322923" />
+      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450128771663">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="12" column="62" />
+        <mark key="]" line="12" column="62" />
+        <mark key="." line="12" column="62" />
+        <mark key="^" line="12" column="62" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
@@ -84,13 +106,19 @@
       <jump line="4" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="1" column="2" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="22" column="0" filename="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" />
+      <jump line="5" column="3" filename="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" />
+      <jump line="24" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/match.coffee" />
+      <jump line="14" column="39" filename="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" />
+      <jump line="29" column="14" filename="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" />
+      <jump line="10" column="0" filename="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYXRoLmVuZHNXaXRoKCJtYXRjaGVzIikKICAgICAgICAgICAgcmVzLmNvbnRlbnQgPSAiaGFsbG8iCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>@route</text>
@@ -98,32 +126,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9saWIvbWF0Y2hwbGF5ZXIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwYXRoLmVuZHNXaXRoKCJtYXRjaGVzIikKICAgICAgICAgICAgcmVzLmNvbnRlbnQgPSAiaGFsbG8iCg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldF9hdmFpbGFibGVfbWF0Y2hlczogLT4KICAgICAgICAkLmFqYXgK</text>
+      <register name="2" type="4">
+        <text>d</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiBNYXRjaC5CCg==</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Z2xvYiA9IHJlcXVpcmUgImdsb2IiCg==</text>
+      <register name="4" type="4">
+        <text>@</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZ2xvYigiLi9kYXRhLyouanNvbi5neiIpKQo=</text>
+      <register name="6" type="4">
+        <text>@</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text>ex</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>x</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -155,9 +183,9 @@
       <history-cmd>
         <entry>.,.+1split</entry>
         <entry>split</entry>
-        <entry>vsplit</entry>
         <entry>.,.+1w</entry>
         <entry>W</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -172,6 +200,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
