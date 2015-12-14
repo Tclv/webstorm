@@ -10,24 +10,52 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450098656094" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450101588970" />
       <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450092429859">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="34" />
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450099296474" />
-      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450097518366">
+      <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450101749772">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450103947816">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450101600179">
         <mark key="'" line="1" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450099323160" />
-      <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450098624728" />
-      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450099375467" />
+      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450100540233">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450104975848">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="27" column="72" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/dota2_map.coffee" timestamp="1450102769645" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450102322923" />
+      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450105000878">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
@@ -72,55 +100,56 @@
       <jump line="16" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="4" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="1" column="2" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="22" column="0" filename="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9ydW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGdldF9hdmFpbGFibGVfbWF0Y2hlczogLT4KICAgICAgICAkLmFqYXgK</text>
       </register>
       <register name="-" type="4">
-        <text>matchplayer</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>@route</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9saWIvbWF0Y2hwbGF5ZXIuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9ydW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIGdldF9hdmFpbGFibGVfbWF0Y2hlczogLT4KICAgICAgICAkLmFqYXgK</text>
       </register>
-      <register name="2" type="4">
-        <text>matchplayer</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXJsOiBNYXRjaC5CCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">Z2xvYiA9IHJlcXVpcmUgImdsb2IiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>lib</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkYXRhID0gW3sieCIgOiAxMDAsICJ5IiA6IDEwMSwgImluZmx1ZW5jZSIgOiAtMC41fSwgeyJ4IiA6IDEwMiwgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAwLjd9XQpkYXRhMiA9IFt7IngiIDogMTAxLCAieSIgOiAxMDEsICJpbmZsdWVuY2UiIDogMS4wfSwgeyJ4IiA6IDEwMywgInkiOjEwNCwgImluZmx1ZW5jZSIgOiAtMC4yfV0KCgo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZ2xvYigiLi9kYXRhLyouanNvbi5neiIpKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhAd2lkdGgpCg==</text>
+      <register name="6" type="4">
+        <text>x</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygicmVzaXppbmciKQo=</text>
+      <register name="7" type="4">
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>imgHeight</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="4">
-        <text>h</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ii9qcy9ydW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>@route</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern>@route</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -138,6 +167,7 @@
         <entry>@width</entry>
         <entry>console</entry>
         <entry>file</entry>
+        <entry>@route</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
@@ -145,6 +175,7 @@
         <entry>vsplit</entry>
         <entry>.,.+1w</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,6 +186,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
