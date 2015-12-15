@@ -10,6 +10,11 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450183130138">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/dota-analytics/test.html" timestamp="1450092429859">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="34" />
@@ -24,12 +29,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450174952212">
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450182803347">
         <mark key="'" line="1" column="2" />
         <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="8" column="42" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450181931114">
         <mark key="'" line="32" column="160" />
@@ -111,11 +115,11 @@
       <jump line="32" column="160" filename="$USER_HOME$/Development/dota-analytics/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -123,32 +127,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtb21lbnR1bSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKCkgLT4gCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>#</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnN0eWxlKCJmaWxsIiwgInVybCgjZGlhZ29uYWwtc3RyaXBlLTMpIikK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnN0eWxlKCJmaWxsIiwgInVybCgjZGlhZ29uYWwtc3RyaXBlLTMpIikK</text>
       </register>
       <register name="5" type="4">
-        <text>#</text>
+        <text>'</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgI2RpYWdvbmFsLXN0cmlwZS0zCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRyYW5zaXRpb24oKQo=</text>
+      <register name="8" type="4">
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>500</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -187,8 +191,9 @@
         <entry>split</entry>
         <entry>.,.+1w</entry>
         <entry>W</entry>
-        <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>.,.+1vsplit</entry>
+        <entry>vsplit</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -206,6 +211,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
