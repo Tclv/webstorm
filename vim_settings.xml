@@ -31,17 +31,25 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="8" column="42" />
       </file>
+      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450181931114">
+        <mark key="'" line="32" column="160" />
+        <mark key="[" line="61" column="172" />
+        <mark key="]" line="61" column="172" />
+        <mark key="^" line="61" column="172" />
+        <mark key="." line="61" column="172" />
+      </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450124402850">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450173334444">
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="41" />
+      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450181677888">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450181361158" />
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
@@ -100,55 +108,56 @@
       <jump line="23" column="28" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="8" column="35" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="51" column="9" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="32" column="160" filename="$USER_HOME$/Development/dota-analytics/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRyYW5zaXRpb24oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>play</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtb21lbnR1bSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRyYW5zaXRpb24oKQo=</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>500</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>1000</text>
+        <text>#</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNWQ4MTBhZTVjNGJmY2Y3NmQ5ZDA0ZWQ0OGNjZDczYTgxYTEzNGEwCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="5" type="4">
+        <text>#</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvcHVsYXRlQnV0dG9uTGlzdChwbGF5ZXIpCg==</text>
+      <register name="6" type="4">
+        <text>/</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PT09PT09Cg==</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
-      <register name="8" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnRyYW5zaXRpb24oKQo=</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>500</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>play</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>play</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -171,6 +180,7 @@
         <entry>set_momentum</entry>
         <entry>plotter</entry>
         <entry>play</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
