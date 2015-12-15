@@ -29,11 +29,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450182803347">
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450185537194">
         <mark key="'" line="1" column="2" />
         <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="12" />
-        <mark key="." line="61" column="12" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450181931114">
         <mark key="'" line="32" column="160" />
@@ -53,7 +53,6 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450181361158" />
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
@@ -116,7 +115,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRyYW5zaXRpb24oKQo=</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -128,31 +127,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtb21lbnR1bSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRyYW5zaXRpb24oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCkgLT4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmR1cmF0aW9uKDEwMDApCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnN0eWxlKCJmaWxsIiwgInVybCgjZGlhZ29uYWwtc3RyaXBlLTMpIikK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKCkgLT4gCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnN0eWxlKCJmaWxsIiwgInVybCgjZGlhZ29uYWwtc3RyaXBlLTMpIikK</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
-      </register>
-      <register name="6" type="4">
-        <text>'</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2RpYWdvbmFsLXN0cmlwZS0zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0eWxlKCJmaWxsIiwgInVybCgjZGlhZ29uYWwtc3RyaXBlLTMpIikK</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
