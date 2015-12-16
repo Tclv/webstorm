@@ -3,6 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450279179476">
+        <mark key="[" line="42" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450106659164">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450281246220">
+        <mark key="a" line="43" column="6" />
+        <mark key="'" line="91" column="22" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="86" column="28" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450181931114">
+        <mark key="'" line="32" column="160" />
+      </file>
       <file name="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" timestamp="1449758306672">
         <mark key="'" line="57" column="23" />
         <mark key="[" line="78" column="56" />
@@ -10,9 +29,12 @@
         <mark key="." line="78" column="56" />
         <mark key="^" line="78" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450195620952">
-        <mark key="'" line="60" column="4" />
-        <mark key="[" line="46" column="21" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" timestamp="1450280396271">
+        <mark key="'" line="29" column="13" />
+        <mark key="[" line="53" column="56" />
+        <mark key="]" line="55" column="22" />
+        <mark key="." line="55" column="22" />
+        <mark key="^" line="55" column="22" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/js/lib/matchplayer.js" timestamp="1450194656382">
         <mark key="'" line="72" column="27" />
@@ -26,33 +48,11 @@
       <file name="/JavaScript Console" timestamp="1450173075732">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450106659164">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450216876203">
-        <mark key="a" line="44" column="6" />
-        <mark key="'" line="87" column="28" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450181931114">
-        <mark key="'" line="32" column="160" />
-      </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450124402850">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/dota2-client.coffee" timestamp="1450181677888">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450194416914" />
     </filemarks>
     <jumps>
       <jump line="40" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
@@ -67,7 +67,6 @@
       <jump line="60" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
       <jump line="55" column="0" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
       <jump line="57" column="23" filename="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" />
-      <jump line="45" column="13" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="11" column="18" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="75" column="51" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="28" column="40" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
@@ -80,7 +79,6 @@
       <jump line="82" column="59" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="24" column="22" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="26" column="27" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
-      <jump line="36" column="23" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="47" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="64" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="60" column="8" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
@@ -109,73 +107,84 @@
       <jump line="12" column="27" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="42" column="0" filename="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" />
       <jump line="23" column="28" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
-      <jump line="8" column="35" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="51" column="9" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="32" column="160" filename="$USER_HOME$/Development/dota-analytics/index.html" />
       <jump line="72" column="27" filename="$USER_HOME$/Development/dota-analytics/js/lib/matchplayer.js" />
       <jump line="56" column="4" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
-      <jump line="28" column="13" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="47" column="9" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="57" column="4" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="86" column="28" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
       <jump line="92" column="66" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="28" column="13" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="60" column="4" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="49" column="9" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="64" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="31" column="30" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="48" column="76" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="45" column="18" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="43" column="30" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="36" column="0" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="100" column="14" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="53" column="9" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="67" column="9" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="8" column="9" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="29" column="13" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
+      <jump line="94" column="22" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkMy5zZWxlY3QoImNpcmNsZSIpLm1vdmVUb0Zyb250KCkK</text>
+        <text encoding="base64">ICAgICAgICAudGV4dCgoZCkgLT4gZC5wbGF5ZXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>moveToFront</text>
+        <text encoding="base64">XDxwbG90dGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtb21lbnR1bSkK</text>
+        <text encoding="base64">ICAgICAgICBkMy50aW1lcihAZHJhd0luZmx1ZW5jZU1hcCgpLmJpbmQodGhpcykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkMy5zZWxlY3QoImNpcmNsZSIpLm1vdmVUb0Zyb250KCkK</text>
+        <text encoding="base64">ICAgICAgICAudGV4dCgoZCkgLT4gZC5wbGF5ZXIpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text encoding="base64">c3R5bGUoImZpbGwiLCAoZCkgLT4gaWYgKGQudGVhbSA9PSAicmFkaWFudCIpIHRoZW4gInllbGxvdyIgZWxzZSAicHVycGxlIikKICAgICAgICAu</text>
       </register>
-      <register name="3" type="4">
-        <text>l</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAuYXR0cigiY2xhc3MiLCAicGxheWVyY2lyY2xlIikK</text>
       </register>
-      <register name="4" type="4">
-        <text>A</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBAZHJhd1BsYXllcnMoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+      <register name="5" type="4">
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAubW92ZVRvRnJvbnQoKQo=</text>
+      <register name="6" type="4">
+        <text>(</text>
       </register>
-      <register name="7" type="4">
-        <text>green</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAuYXBwZW5kKCJzdmc6dGl0bGUiKQo=</text>
       </register>
       <register name="8" type="4">
-        <text>violet</text>
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAZHJhd1BsYXllcnMoKQo=</text>
+      <register name="9" type="4">
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>moveToFront</last-search>
+      <last-search encoding="base64">XDxwbG90dGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>moveToFront</last-pattern>
+      <last-pattern encoding="base64">XDxwbG90dGVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>same size</entry>
-        <entry>resize</entry>
-        <entry>data</entry>
         <entry>margine</entry>
         <entry>margin</entry>
         <entry>width</entry>
@@ -191,8 +200,11 @@
         <entry>input</entry>
         <entry>&quot;g&quot;</entry>
         <entry>draw_players</entry>
-        <entry>draw</entry>
         <entry>moveToFront</entry>
+        <entry>players</entry>
+        <entry>plotPlayer</entry>
+        <entry>draw</entry>
+        <entry encoding="base64">XDxwbG90dGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
