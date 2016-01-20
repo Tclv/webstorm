@@ -7,6 +7,16 @@
         <mark key="[" line="42" column="1" />
       </file>
       <file name="$USER_HOME$/Development/HuisOnderWater/gulpfile.js" timestamp="1453319704808" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/lineplotter.coffee" timestamp="1453322986296">
+        <mark key="'" line="3" column="9" />
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="19" column="14" />
+      </file>
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/index.html" timestamp="1453322302112">
+        <mark key="[" line="26" column="19" />
+      </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450106659164">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -146,55 +156,57 @@
       <jump line="8" column="9" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="29" column="13" filename="$USER_HOME$/Development/dota-analytics/lib/matchplayer.coffee" />
       <jump line="94" column="22" filename="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" />
+      <jump line="5" column="4" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/lineplotter.coffee" />
+      <jump line="3" column="9" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/lineplotter.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAudGV4dCgoZCkgLT4gZC5wbGF5ZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbG90dGVyXD4=</text>
+        <text encoding="base64">XDxhZGp1c3RTY2FsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkMy50aW1lcihAZHJhd0luZmx1ZW5jZU1hcCgpLmJpbmQodGhpcykpCg==</text>
+        <text encoding="base64">ICAgICAgICBAeFNjYWxlID0gZDMuc2NhbGUubGluZWFyKCkKICAgICAgICAgICAgLmRvbWFpbihbMCwgQG1heFhdKQogICAgICAgICAgICAucmFuZ2UoWzAsIHdpZHRoXSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGV4dCgoZCkgLT4gZC5wbGF5ZXIpCg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c3R5bGUoImZpbGwiLCAoZCkgLT4gaWYgKGQudGVhbSA9PSAicmFkaWFudCIpIHRoZW4gInllbGxvdyIgZWxzZSAicHVycGxlIikKICAgICAgICAu</text>
+        <text>@</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuYXR0cigiY2xhc3MiLCAicGxheWVyY2lyY2xlIikK</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAZHJhd1BsYXllcnMoKQo=</text>
+      <register name="4" type="4">
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>a</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBwZW5kKCJzdmc6dGl0bGUiKQo=</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbG90dGVyXD4=</last-search>
+      <last-search encoding="base64">XDxhZGp1c3RTY2FsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbG90dGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZGp1c3RTY2FsZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -215,6 +227,7 @@
         <entry>data</entry>
         <entry>this</entry>
         <entry>emptyplot</entry>
+        <entry encoding="base64">XDxhZGp1c3RTY2FsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
@@ -222,8 +235,8 @@
         <entry>vsplit</entry>
         <entry>Lw</entry>
         <entry>.,.+19w</entry>
-        <entry>W</entry>
         <entry>.,.+1w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
