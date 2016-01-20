@@ -3,6 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450279179476">
+        <mark key="[" line="42" column="1" />
+      </file>
+      <file name="$USER_HOME$/Development/HuisOnderWater/gulpfile.js" timestamp="1453319704808" />
+      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450106659164">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450281246220">
+        <mark key="a" line="43" column="6" />
+        <mark key="'" line="91" column="22" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="86" column="28" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450181931114">
+        <mark key="'" line="32" column="160" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/influencemaps.coffee" timestamp="1450018832893">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="23" />
+      </file>
       <file name="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.js" timestamp="1449758306672">
         <mark key="'" line="57" column="23" />
         <mark key="[" line="78" column="56" />
@@ -26,32 +50,23 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/css/influencemaps.css" timestamp="1450279179476">
-        <mark key="[" line="42" column="1" />
-      </file>
       <file name="/JavaScript Console" timestamp="1450173075732">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1450106659164">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1450281246220">
-        <mark key="a" line="43" column="6" />
-        <mark key="'" line="91" column="22" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="86" column="28" />
-        <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/index.html" timestamp="1450181931114">
-        <mark key="'" line="32" column="160" />
+      <file name="$USER_HOME$/Development/Tudelft/DataVisualization/practical/exercise1/scatterplot.html" timestamp="1450012411032">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="83" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1450124402850">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.js" timestamp="1450015256205">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -185,35 +200,30 @@
     </search>
     <history>
       <history-search>
-        <entry>margine</entry>
-        <entry>margin</entry>
+        <entry encoding="base64">XDxzY2FsZVhcPg==</entry>
+        <entry>dr</entry>
+        <entry>d3</entry>
+        <entry>map</entry>
+        <entry>xScale</entry>
+        <entry>img</entry>
+        <entry>=</entry>
         <entry>width</entry>
-        <entry encoding="base64">XDxwb2ludHNcPg==</entry>
-        <entry>@width</entry>
+        <entry>heightBox</entry>
+        <entry>aspec</entry>
+        <entry>gridSizeX</entry>
         <entry>console</entry>
-        <entry>file</entry>
-        <entry>@route</entry>
-        <entry>control</entry>
-        <entry>set_momentum</entry>
-        <entry>plotter</entry>
-        <entry>play</entry>
-        <entry>input</entry>
-        <entry>&quot;g&quot;</entry>
-        <entry>draw_players</entry>
-        <entry>moveToFront</entry>
-        <entry>players</entry>
-        <entry>plotPlayer</entry>
-        <entry>draw</entry>
-        <entry encoding="base64">XDxwbG90dGVyXD4=</entry>
+        <entry>data</entry>
+        <entry>this</entry>
+        <entry>emptyplot</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+1split</entry>
         <entry>split</entry>
-        <entry>.,.+1w</entry>
-        <entry>W</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>.,.+1vsplit</entry>
         <entry>vsplit</entry>
+        <entry>Lw</entry>
+        <entry>.,.+19w</entry>
+        <entry>W</entry>
+        <entry>.,.+1w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -228,6 +238,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
