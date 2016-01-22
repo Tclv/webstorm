@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/lineplotter.coffee" timestamp="1453482146437">
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/lineplotter.coffee" timestamp="1453483279073">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="32" column="25" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="28" />
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453481907723">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453483321495">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="1" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="24" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -26,40 +26,40 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>width</text>
+        <text>selectAll</text>
       </register>
       <register name="&quot;" type="4">
-        <text>width</text>
+        <text>selectAll</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ID0gQGltZy53aWR0aCgp</text>
+        <text>.data(data)</text>
       </register>
       <register name="3" type="4">
-        <text>width</text>
+        <text>&quot;rect&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>width</text>
       </register>
       <register name="5" type="4">
-        <text>200</text>
+        <text encoding="base64">ID0gQGltZy53aWR0aCgp</text>
       </register>
       <register name="6" type="4">
-        <text>200</text>
+        <text>width</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyBAd2lkdGgK</text>
+      <register name="8" type="4">
+        <text>200</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAc3ZnID0gQHdlbAo=</text>
+      <register name="9" type="4">
+        <text>200</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>selectAll</text>
       </register>
     </registers>
     <search>
@@ -74,6 +74,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
