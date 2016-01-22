@@ -9,18 +9,19 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/gulpfile.js" timestamp="1453499787177">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="150" column="11" />
-        <mark key="]" line="150" column="11" />
-        <mark key="." line="150" column="11" />
-        <mark key="^" line="150" column="12" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/gulpfile.js" timestamp="1453500680673">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="153" column="25" />
+        <mark key="]" line="153" column="25" />
+        <mark key="." line="153" column="25" />
+        <mark key="^" line="153" column="26" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.js" timestamp="1453499816765" />
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/HuisOnderWater/node_modules/gulp-connect/index.js" timestamp="1453500467079" />
       <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453483321495">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="1" />
@@ -52,40 +53,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBzZXJ2ZSA9IHNlcnZlX3N0YXRpYyhwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi4nKSwgewogICAgICAgIHNldEhlYWRlcnM6IGZ1bmN0aW9uKHJlcywgcGF0aCkgewogICAgICAgICAgICBpZiAocGF0aC5lbmRzV2l0aCgiLmpzb24uZ3oiKSkgewogICAgICAgICAgICAgICAgcmVzLnNldEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKTsKICAgICAgICAgICAgICAgIHJldHVybiByZXMuc2V0SGVhZGVyKCJDb250ZW50LUVuY29kaW5nIiwgImd6aXAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0pOwogICAgY29ubmVjdC51c2Uoc2VydmUpOwo=</text>
+      </register>
       <register name="1" type="4">
-        <text>(</text>
+        <text>]</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>[</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcC51c2Uoc2VydmUpOwo=</text>
+      <register name="3" type="4">
+        <text>gzipMiddleware</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGd6aXBNaWRkbGV3YXJlID0gZnVuY3Rpb24ocmVxLCByZXMsIG5leHQpIHsKICAgIGNvbnNvbGUubG9nKHJlcSk7CiAgICBjb25zb2xlLmxvZyhyZXF1aXJlKCd1cmwnKS5wYXJzZShyZXEudXJsZW5jb2RlZCgpKSk7CiAgICBpZiAoZW5kc3dpdGgocmVxLnVybGVuY29kZWQoKSwgIi5neiIpKSB7CiAgICAgICAgcmVzLnNldEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKQogICAgICAgIHJlcy5zZXRIZWFkZXIoIkNvbnRlbnQtRW5jb2RpbmciLCAiZ3ppcCIpCgogICAgfQoKICAgIG5leHQoKTsK</text>
+        <text encoding="base64">dmFyIGd6aXBNaWRkbGV3YXJlID0gZnVuY3Rpb24oZ3VscF9jb25uZWN0LCBhcHAsIG9wdCkgewogICAgYXBwLnVzZShzZXJ2ZSk7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGF0YSAK</text>
+        <text encoding="base64">ICAgIHZhciBzZXJ2ZSA9IHNlcnZlX3N0YXRpYyhwYXRoLmpvaW4oY3VycmVudEJ1aWxkRGlyKCksICdkYXRhJyksIHsKICAgICAgICBzZXRIZWFkZXJzOiBmdW5jdGlvbihyZXMsIHBhdGgpIHsKICAgICAgICAgICAgaWYgKHBhdGguZW5kc1dpdGgoIi5qc29uLmd6IikpIHsKICAgICAgICAgICAgICAgIHJlcy5zZXRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIik7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzLnNldEhlYWRlcigiQ29udGVudC1FbmNvZGluZyIsICJnemlwIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9KTsK</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>connect</text>
       </register>
-      <register name="8" type="4">
-        <text>=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JCAtPgogICAgbHAgPSBuZXcgTGluZVBsb3R0ZXIoIiNjaGFydCIsIDMwMCwgMjUwMCkKICAgIGxwLmRyYXcoZGF0YSkK</text>
+        <text encoding="base64">ICAgIHZhciBzZXJ2ZSA9IHNlcnZlX3N0YXRpYyhwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi4nKSwgewogICAgICAgIHNldEhlYWRlcnM6IGZ1bmN0aW9uKHJlcywgcGF0aCkgewogICAgICAgICAgICBpZiAocGF0aC5lbmRzV2l0aCgiLmpzb24uZ3oiKSkgewogICAgICAgICAgICAgICAgcmVzLnNldEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKTsKICAgICAgICAgICAgICAgIHJldHVybiByZXMuc2V0SGVhZGVyKCJDb250ZW50LUVuY29kaW5nIiwgImd6aXAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0pOwogICAgY29ubmVjdC51c2Uoc2VydmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
