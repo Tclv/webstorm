@@ -9,12 +9,12 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453566686959">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="38" column="32" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="31" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453572165980">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="21" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
@@ -59,58 +59,62 @@
       <jump line="1" column="16" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="36" column="25" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="22" column="39" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
-      <jump line="8" column="9" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
-      <jump line="30" column="21" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="17" column="32" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="30" column="35" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="8" column="22" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="10" column="28" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="33" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="65" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>height</text>
+        <text>width</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZDMubWF4KGRhdGEsIChkKSA9PiBkWzFdKQ==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
-      <register name="2" type="4">
-        <text>+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAudHJhbnNsYXRlKFsxLDBdKQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>400</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text>+</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
-      </register>
-      <register name="9" type="4">
         <text>0</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAucHJlY2lzaW9uKC4xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>height</last-search>
+      <last-search>width</last-search>
       <last-offset />
-      <last-pattern>height</last-pattern>
+      <last-pattern>width</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -121,6 +125,7 @@
         <entry>app.use</entry>
         <entry>connect</entry>
         <entry>height</entry>
+        <entry>width</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -143,6 +148,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
