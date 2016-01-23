@@ -9,15 +9,24 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453564012658">
-        <mark key="'" line="1" column="16" />
-        <mark key="[" line="30" column="34" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453566686959">
+        <mark key="'" line="18" column="32" />
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1453563205931">
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453566723697">
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1453565262090">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="67" />
       </file>
@@ -48,55 +57,60 @@
       <jump line="10" column="4" filename="$USER_HOME$/Development/HuisOnderWater/gulpfile.js" />
       <jump line="156" column="0" filename="$USER_HOME$/Development/HuisOnderWater/gulpfile.js" />
       <jump line="1" column="16" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="36" column="25" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="22" column="39" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="8" column="9" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="30" column="21" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="17" column="32" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgU2lkZXZpZXcK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>connect</text>
+        <text>height</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBzZXJ2ZSA9IHNlcnZlX3N0YXRpYyhwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi4nKSwgewogICAgICAgIHNldEhlYWRlcnM6IGZ1bmN0aW9uKHJlcywgcGF0aCkgewogICAgICAgICAgICBpZiAocGF0aC5lbmRzV2l0aCgiLmpzb24uZ3oiKSkgewogICAgICAgICAgICAgICAgcmVzLnNldEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKTsKICAgICAgICAgICAgICAgIHJldHVybiByZXMuc2V0SGVhZGVyKCJDb250ZW50LUVuY29kaW5nIiwgImd6aXAiKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0pOwogICAgY29ubmVjdC51c2Uoc2VydmUpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZDMubWF4KGRhdGEsIChkKSA9PiBkWzFdKQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgU2lkZXZpZXcK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLgo=</text>
+      <register name="2" type="4">
+        <text>+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fSkoKTsK</text>
+      <register name="6" type="4">
+        <text>+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">TGluZVBsb3R0ZXIucHJvdG90eXBlLmFkanVzdFNjYWxlID0gZnVuY3Rpb24oKSB7CiAgICB0aGlzLmhlaWdodCA9IHRoaXMuaW1nLmhlaWdodCgpOwp0aGlzLndpZHRoID0gdGhpcy5pbWcud2lkdGgoKTsKY29uc29sZS5sb2codGhpcy5oZWlnaHQpOwp0aGlzLnhTY2FsZSA9IGQzLnNjYWxlLmxpbmVhcigpLmRvbWFpbihbMCwgdGhpcy5tYXhYXSkucmFuZ2UoWzAsIHRoaXMud2lkdGhdKTsKcmV0dXJuIHRoaXMueVNjYWxlID0gZDMuc2NhbGUubGluZWFyKCkuZG9tYWluKFswLCB0aGlzLm1heFldKS5yYW5nZShbMCwgdGhpcy5oZWlnaHRdKTsKfTsK</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">TGluZVBsb3R0ZXIgPSAoZnVuY3Rpb24oKSB7CiAgICBmdW5jdGlvbiBMaW5lUGxvdHRlcihzZWxlY3RvciwgbWF4WCwgbWF4WSkgewogICAgdGhpcy5tYXhYID0gbWF4WDsKICAgIHRoaXMubWF4WSA9IG1heFk7CiAgICB0aGlzLmltZyA9ICQoc2VsZWN0b3IpOwogICAgdGhpcy5zdmcgPSBkMy5zZWxlY3Qoc2VsZWN0b3IpLmFwcGVuZCgic3ZnIik7CiAgICB0aGlzLnN2Zy5hdHRyKCJ3aWR0aCIsIHRoaXMuaW1nLndpZHRoKCkpOwogICAgdGhpcy5zdmcuYXR0cigiaGVpZ2h0IiwgdGhpcy5pbWcuaGVpZ2h0KCkpOwogICAgdGhpcy5hZGp1c3RTY2FsZSgpOwp9Cg==</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>connect</last-search>
+      <last-search>height</last-search>
       <last-offset />
-      <last-pattern>connect</last-pattern>
+      <last-pattern>height</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -106,9 +120,12 @@
         <entry>path</entry>
         <entry>app.use</entry>
         <entry>connect</entry>
+        <entry>height</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
+        <entry>qw</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -123,6 +140,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
