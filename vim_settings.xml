@@ -9,24 +9,13 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/gulpfile.js" timestamp="1453500680673">
-        <mark key="'" line="150" column="0" />
-        <mark key="[" line="153" column="25" />
-        <mark key="]" line="153" column="25" />
-        <mark key="." line="153" column="25" />
-        <mark key="^" line="153" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/dota-analytics/run.js" timestamp="1453499816765" />
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/node_modules/gulp-connect/index.js" timestamp="1453500467079" />
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453483321495">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="1" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="24" column="1" />
+      <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1453563205931">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="18" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -52,8 +41,8 @@
       <jump line="156" column="0" filename="$USER_HOME$/Development/HuisOnderWater/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkLmFqYXgKICAgICAgICAgICAgdXJsOiBNYXRjaC5CQVNFX1VSTCArIEBpZC50b1N0cmluZygpICsgIi5qc29uLmd6IgogICAgICAgICAgICBzdWNjZXNzOiAoQGRhdGEpID0+CiAgICAgICAgICAgICAgICBtYXhfdCA9IDAKICAgICAgICAgICAgICAgIGZvciBrZXkgb2YgQGRhdGEKICAgICAgICAgICAgICAgICAgICBtYXhfdCA9IE1hdGgubWF4KG1heF90LCBwYXJzZUludChrZXkpKQoKICAgICAgICAgICAgICAgIEBkdXJhdGlvbiA9IG1heF90CgogICAgICAgICAgICBlcnJvcjogKHhociwgc3RhdHVzLCBlcnJvcikgLT4KICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDb3VsZCBub3QgbG9hZCBtYXRjaCBkYXRhOiAlcyIsIGVycm9yKQo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -113,6 +102,8 @@
         <entry>2w</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
