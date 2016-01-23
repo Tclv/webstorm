@@ -9,12 +9,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453572165980">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="21" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453580167158">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
@@ -66,55 +65,57 @@
       <jump line="33" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="65" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="34" column="44" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="24" column="22" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAudHJhbnNsYXRlKFtAd2lkdGggLyAyLCBAaGVpZ2h0IC8gMl0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>width</text>
+        <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZDMubWF4KGRhdGEsIChkKSA9PiBkWzFdKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAueCggKGQpID0+IHByb2plY3Rpb24oW2QubG9uZywgZC5sYXRdKVswXSkK</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAudHJhbnNsYXRlKFtAd2lkdGggLyAyLCBAaGVpZ2h0IC8gMl0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudHJhbnNsYXRlKFsxLDBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAucHJlY2lzaW9uKC4xKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAuc2NhbGUoKEB3aWR0aCArIDEpIC8gMiAvIE1hdGguUEkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>400</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAuc2NhbGUoKEB3aWR0aCArIDEpIC8gMiAvIE1hdGguUEkpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text encoding="base64">ICAgICAgICAuc2NhbGUoKEB3aWR0aCArIDEpIC8gMiAvIE1hdGguUEkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAucHJlY2lzaW9uKC4xKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAudHJhbnNsYXRlKFtAd2lkdGggLyAyLCBAaGVpZ2h0IC8gMl0pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyB4TWF4CiAgICAgICAgY29uc29sZS5sb2cgeU1heAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAucHJlY2lzaW9uKC4xKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJhbmdlKEBwYWRkaW5nTGVmdCwgQHdpZHRoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>width</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>width</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -126,11 +127,13 @@
         <entry>connect</entry>
         <entry>height</entry>
         <entry>width</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
         <entry>qw</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
