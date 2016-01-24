@@ -9,22 +9,22 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453661638299">
-        <mark key="'" line="75" column="7" />
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="72" column="36" />
-        <mark key="^" line="72" column="36" />
-        <mark key="." line="72" column="36" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453665625069">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="28" />
+        <mark key="." line="51" column="28" />
+        <mark key="^" line="51" column="28" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453661281614">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="17" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453665658763">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1453565262090">
         <mark key="[" line="8" column="0" />
@@ -64,13 +64,15 @@
       <jump line="10" column="28" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="33" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
-      <jump line="65" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="34" column="44" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="24" column="22" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="17" column="7" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="35" column="20" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="13" column="21" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="72" column="7" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="56" column="8" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="59" column="8" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="65" column="8" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -80,46 +82,46 @@
         <text>area</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx4U2NhbGVcPg==</text>
+        <text encoding="base64">XDxsb2NhdGlvbkNpcmNsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0cm9rZTogYmx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmF0dHIoImN4IiwgQHhTY2FsZURlZ3JlZXMocHJvamVjdGlvbihtZXRhZGF0YS5sb2NhdGlvbilbMF0pKQogICAgICAgICAgICAuYXR0cigiY3kiLCByYWRpdXMgLyAyKQo=</text>
       </register>
       <register name="1" type="4">
         <text>area</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>area</text>
       </register>
       <register name="3" type="4">
-        <text>waterarea</text>
+        <text>class</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0gQXJyYXkuYXBwbHkobnVsbCwgQXJyYXkoMjAwKS5tYXAoIChhLCBpKSB7fSkpCg==</text>
+      <register name="4" type="4">
+        <text>class</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>class</text>
       </register>
-      <register name="6" type="4">
-        <text>pair</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>step</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICBAc3ZnLmFwcGVuZCgidGV4dCIpCiAgICAgICAgICAgIC5hcHBlbmQoInRleHRwYXRoIikKICAgICAgICAgICAgLmF0dHIoInhsaW5rOmhyZWYiLCAiI3Byb2phcmVhIikKICAgICAgICAgICAgLnRleHQoIlRPVE9MQVRMV1QiKQ==</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmF0dHIoImlkIiwgImN1cnZlLXRleHQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx4U2NhbGVcPg==</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvbkNpcmNsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx4U2NhbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvbkNpcmNsZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -134,12 +136,15 @@
         <entry>console</entry>
         <entry>@xScale</entry>
         <entry encoding="base64">XDx4U2NhbGVcPg==</entry>
+        <entry encoding="base64">XDxsb2NhdGlvbkNpcmNsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
         <entry>qw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">bGV0ICZiYWNrZ3JvdW5kID0gKCAmYmFja2dyb3VuZCA9PSAiZGFyayI/ICJsaWdodCIgOiAiZGFyayIgKQ==</entry>
+        <entry>let@/=&quot;&quot;</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
