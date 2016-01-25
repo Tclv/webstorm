@@ -9,22 +9,22 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453665625069">
-        <mark key="'" line="65" column="8" />
-        <mark key="[" line="51" column="25" />
-        <mark key="]" line="51" column="28" />
-        <mark key="." line="51" column="28" />
-        <mark key="^" line="51" column="28" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453720071567">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="68" column="114" />
+        <mark key="]" line="68" column="117" />
+        <mark key="." line="68" column="117" />
+        <mark key="^" line="68" column="117" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453665658763">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="28" column="4" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453719221497">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/match.coffee" timestamp="1453565262090">
         <mark key="[" line="8" column="0" />
@@ -73,46 +73,49 @@
       <jump line="56" column="8" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="59" column="8" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="65" column="8" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="47" column="78" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="75" column="8" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="76" column="8" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>area</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>area</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvbkNpcmNsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmF0dHIoImN4IiwgQHhTY2FsZURlZ3JlZXMocHJvamVjdGlvbihtZXRhZGF0YS5sb2NhdGlvbilbMF0pKQogICAgICAgICAgICAuYXR0cigiY3kiLCByYWRpdXMgLyAyKQo=</text>
+        <text encoding="base64">ICAgICAgICB5QXhpcyA9IGQzLnN2Zy5heGlzKCkuc2NhbGUoQHlTY2FsZSkKICAgICAgICAgICAgLm9yaWVudCgibGVmdCIpLnRpY2tzKDUpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>area</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text>area</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>class</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>class</text>
+        <text>yAxis</text>
       </register>
       <register name="5" type="4">
-        <text>class</text>
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBAc3ZnLmFwcGVuZCgidGV4dCIpCiAgICAgICAgICAgIC5hcHBlbmQoInRleHRwYXRoIikKICAgICAgICAgICAgLmF0dHIoInhsaW5rOmhyZWYiLCAiI3Byb2phcmVhIikKICAgICAgICAgICAgLnRleHQoIlRPVE9MQVRMV1QiKQ==</text>
+        <text>,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmF0dHIoImlkIiwgImN1cnZlLXRleHQiKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -141,10 +144,10 @@
       <history-cmd>
         <entry>2w</entry>
         <entry>qw</entry>
-        <entry>W</entry>
         <entry encoding="base64">bGV0ICZiYWNrZ3JvdW5kID0gKCAmYmFja2dyb3VuZCA9PSAiZGFyayI/ICJsaWdodCIgOiAiZGFyayIgKQ==</entry>
         <entry>let@/=&quot;&quot;</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
