@@ -9,17 +9,24 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453821569547">
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453836658146">
         <mark key="'" line="63" column="20" />
-        <mark key="[" line="56" column="69" />
-        <mark key="]" line="56" column="67" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="12" />
         <mark key="^" line="56" column="67" />
-        <mark key="." line="56" column="67" />
+        <mark key="." line="44" column="12" />
         <mark key="o" line="63" column="12" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453836729034">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+        <mark key="^" line="36" column="8" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1453722636910">
         <mark key="[" line="12" column="0" />
@@ -39,7 +46,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="176" column="23" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="151" column="47" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="217" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
@@ -139,55 +145,56 @@
       <jump line="190" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="193" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="63" column="20" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="32" column="6" filename="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>clipPath</text>
+        <text>clip-path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRpY2tGb3JtYXQoKGQpIC0+IChkMy5yb3VuZChjb252ZXJ0VG9EZWdyZWVzKGQpWzBdLCAyKSArICLCsCIpKQo=</text>
+        <text encoding="base64">ICAgIC13ZWJraXQtY2xpcC1wYXRoOiB1cmwoI2NsaXApOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>]</text>
+        <text>-</text>
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>webkit</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnJhbmdlKFtAaGVpZ2h0Q29udGV4dEJveCwgMF0pCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnJhbmdlKFtAaGVpZ2h0Rm9jdXNCb3gsIDBdKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
       <register name="7" type="4">
-        <text>[</text>
+        <text>]</text>
       </register>
       <register name="8" type="4">
-        <text>data[0].lat</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clipPath</last-search>
+      <last-search>clip-path</last-search>
       <last-offset />
-      <last-pattern>clipPath</last-pattern>
+      <last-pattern>clip-path</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -211,8 +218,8 @@
         <entry>xAXis</entry>
         <entry>svg.axis</entry>
         <entry>console.log</entry>
-        <entry>clip-path</entry>
         <entry>clipPath</entry>
+        <entry>clip-path</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
