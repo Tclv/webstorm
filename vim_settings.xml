@@ -9,12 +9,12 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453724776982">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="12" />
-        <mark key="." line="118" column="12" />
-        <mark key="^" line="117" column="29" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453803268377">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Development/HuisOnderWater/app/index.html" timestamp="1453723929937">
         <mark key="[" line="14" column="40" />
@@ -119,10 +119,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>wpend</text>
+        <text>bottom</text>
       </register>
       <register name="-" type="4">
-        <text>wpend</text>
+        <text>bottom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4TWF4XD4=</text>
@@ -131,31 +131,31 @@
         <text encoding="base64">ICAgICAgICBkMy5zZWxlY3Qod2luZG93KS5vbigicmVzaXplIiwgQHJlc2l6ZS5iaW5kKHRoaXMpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>wpend</text>
+        <text>bottom</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>40</text>
       </register>
       <register name="3" type="4">
-        <text>ap</text>
+        <text>wpend</text>
       </register>
       <register name="4" type="4">
-        <text>plotSealevel</text>
+        <text />
       </register>
       <register name="5" type="4">
-        <text>xMax</text>
+        <text>ap</text>
       </register>
       <register name="6" type="4">
-        <text>xMin</text>
+        <text>plotSealevel</text>
       </register>
       <register name="7" type="4">
-        <text>xMin</text>
-      </register>
-      <register name="8" type="4">
         <text>xMax</text>
       </register>
+      <register name="8" type="4">
+        <text>xMin</text>
+      </register>
       <register name="9" type="4">
-        <text>draw</text>
+        <text>xMin</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
