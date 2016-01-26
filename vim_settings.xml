@@ -9,8 +9,12 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453817879081">
-        <mark key="^" line="56" column="46" />
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453821569547">
+        <mark key="'" line="63" column="20" />
+        <mark key="[" line="56" column="69" />
+        <mark key="]" line="56" column="67" />
+        <mark key="^" line="56" column="67" />
+        <mark key="." line="56" column="67" />
         <mark key="o" line="63" column="12" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
@@ -74,7 +78,6 @@
       <jump line="42" column="21" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="25" column="34" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="65" column="13" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
-      <jump line="63" column="13" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="84" column="9" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="85" column="37" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="111" column="9" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
@@ -135,62 +138,61 @@
       <jump line="187" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="190" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
       <jump line="193" column="0" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
+      <jump line="63" column="20" filename="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text>clipPath</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnRpY2tGb3JtYXQoKGQpIC0+IChkMy5yb3VuZChjb252ZXJ0VG9EZWdyZWVzKGQpWzBdLCAyKSArICLCsCIpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>]</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CgoKCgo=</text>
+        <text>]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIy5pbnRlcnBvbGF0ZSgic3RlcCIpCg==</text>
+      <register name="5" type="4">
+        <text>]</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>[</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAc3ZnID0gZDMuc2VsZWN0KEBzZWxlY3RvcikuYXBwZW5kKCJzdmciKQo=</text>
+      <register name="8" type="4">
+        <text>data[0].lat</text>
       </register>
       <register name="9" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search>clipPath</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern>clipPath</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx4QXhpc1NWR1w+</entry>
-        <entry encoding="base64">XDxmb2N1c1w+</entry>
         <entry>@brush</entry>
         <entry>areaFocus</entry>
         <entry>brushed</entry>
@@ -209,6 +211,8 @@
         <entry>xAXis</entry>
         <entry>svg.axis</entry>
         <entry>console.log</entry>
+        <entry>clip-path</entry>
+        <entry>clipPath</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
@@ -217,9 +221,9 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>let@/=&quot;&quot;</entry>
-        <entry>W</entry>
-        <entry>Lw</entry>
         <entry>&quot;W</entry>
+        <entry>Lw</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
