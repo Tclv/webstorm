@@ -9,9 +9,28 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/coffee/sideview.coffee" timestamp="1453724776982">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="12" />
+        <mark key="." line="118" column="12" />
+        <mark key="^" line="117" column="29" />
+      </file>
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/index.html" timestamp="1453723929937">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+      </file>
       <file name="$USER_HOME$/Development/dota-analytics/run.coffee" timestamp="1453499680153">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/HuisOnderWater/app/css/seahouse.css" timestamp="1453719221497">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Development/dota-analytics/lib/plotter.coffee" timestamp="1453722636910">
         <mark key="[" line="12" column="0" />
@@ -185,36 +204,32 @@
     </search>
     <history>
       <history-search>
-        <entry>padding</entry>
-        <entry>transform</entry>
-        <entry>&quot;ANP&quot;</entry>
-        <entry>text-middle</entry>
-        <entry>metadata.loc</entry>
-        <entry>text-midd</entry>
-        <entry encoding="base64">XDx5U2NhbGVGb2N1c1w+</entry>
-        <entry encoding="base64">XDx5U2NhbGVab29tXD4=</entry>
-        <entry>yScale</entry>
-        <entry>range</entry>
-        <entry encoding="base64">XDx1bmRlZmluZWRcPg==</entry>
-        <entry>xAXis</entry>
-        <entry>svg.axis</entry>
-        <entry>console.log</entry>
-        <entry>clipPath</entry>
-        <entry>clip-path</entry>
-        <entry>transition</entry>
-        <entry>trans</entry>
-        <entry>call</entry>
-        <entry>brushed</entry>
+        <entry>serve</entry>
+        <entry>path</entry>
+        <entry>app.use</entry>
+        <entry>connect</entry>
+        <entry>height</entry>
+        <entry>width</entry>
+        <entry>@xScale</entry>
+        <entry encoding="base64">XDx4U2NhbGVcPg==</entry>
+        <entry encoding="base64">XDxsb2NhdGlvbkNpcmNsZVw+</entry>
+        <entry>console</entry>
+        <entry>cityX</entry>
+        <entry>ANP</entry>
+        <entry>50</entry>
+        <entry encoding="base64">XDxtZXRhZGF0YVw+</entry>
+        <entry encoding="base64">XDxzZWxlY3Rvclw+</entry>
+        <entry>slider</entry>
+        <entry>depen</entry>
+        <entry>year</entry>
+        <entry encoding="base64">XDx4TWF4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
         <entry>qw</entry>
         <entry encoding="base64">bGV0ICZiYWNrZ3JvdW5kID0gKCAmYmFja2dyb3VuZCA9PSAiZGFyayI/ICJsaWdodCIgOiAiZGFyayIgKQ==</entry>
-        <entry>e</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>let@/=&quot;&quot;</entry>
-        <entry>&quot;W</entry>
-        <entry>Lw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
